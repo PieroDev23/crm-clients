@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "name": "Juan",
+      "company": "facebook",
+      "email": "juan@juan.com",
+      "tel": "102013313",
+      "notes": "Note 1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "tel": 138198313,
+      "email": "karen@juan.com",
+      "company": "amazon"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "tel": 31983913,
+      "email": "josue@juan.com",
+      "company": "google"
+    },
+    {
+      "id": 4,
+      "name": "Miguel",
+      "tel": 319381983,
+      "email": "miguel@juan.com",
+      "company": "netflix"
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "tel": 1398198938,
+      "email": "pedro@juan.com",
+      "company": "ebay"
+    }
+  ]
+}
